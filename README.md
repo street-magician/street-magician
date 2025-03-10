@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My name is Saku</h1>
 <p align="center">I'm a software engineering student from Finland</p>
 
-- Contact me: **sakusalin1@hotmail.com**
+- Contact me: **saku.salin@tuni.fi**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
